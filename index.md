@@ -15,4 +15,5 @@ General context about the problem
 
 ## Graphs and Visualizations:
 
+new
 ![graph sketches](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/fake_graphs.JPG)
