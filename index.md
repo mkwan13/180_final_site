@@ -4,14 +4,14 @@ title: Detecting Racial Bias in the Oscars
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-## [About]
+## About
 General context about the problem
 
-## [Background]
+## Background
 
-## [Results]
+## Results
 
-## [Conclusion]
+## Conclusion
 
 ## Graphs and Visualizations:
 
