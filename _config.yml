@@ -16,7 +16,7 @@ author :
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://mkwan13.github.io/180_final
+production_url : https://mkwan13.github.io/180_final_site
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -51,7 +51,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://mkwan13.github.io/180_final
+  BASE_PATH : https://mkwan13.github.io/180_final_site
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
