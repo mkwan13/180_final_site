@@ -17,6 +17,8 @@ Much of the controversy has been in the 21st century. This project aims to uncov
 Please refer to the full final report.
 
 ## Graphs and Visualizations:
+![graph sketches](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/fake_graphs.jpg?raw=true)
+
 ![actorsRaceVSnomineesRace](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/actorsRaceVSnomineesRace.jpg?raw=true)
 
 ![genre_dist_nominated_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_nominated_over_time.png?raw=true)
