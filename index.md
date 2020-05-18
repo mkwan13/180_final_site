@@ -17,12 +17,12 @@ Much of the controversy has been in the 21st century. This project aims to uncov
 Please refer to the full final report.
 
 ## Graphs and Visualizations:
-![actorsRaceVSnomineesRace](https://github.com/HuRebecca/wiki-capstone/blob/master/finalVisuals/actorsRaceVSnomineesRace.jpg)
+![actorsRaceVSnomineesRace](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/actorsRaceVSnomineesRace.jpg)
 
 ![genre_dist_nominated_over_time](https://github.com/HuRebecca/wiki-capstone/blob/master/finalVisuals/genre_dist_nominated_over_time.png)
 
-![genre_dist_over_time](https://github.com/HuRebecca/wiki-capstone/blob/master/finalVisuals/genre_dist_over_time.png)
+![genre_dist_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_over_time.png)
 
-![nominee_race_distribution](https://github.com/HuRebecca/wiki-capstone/blob/master/finalVisuals/nominee_race_distribution.jpg)
+![nominee_race_distribution](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/nominee_race_distribution.jpg)
 
-![race_dist_over_time](https://github.com/HuRebecca/wiki-capstone/blob/master/finalVisuals/race_dist_over_time.png)
+![race_dist_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/race_dist_over_time.png)
