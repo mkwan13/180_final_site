@@ -14,6 +14,6 @@ General context about the problem
 ## Conclusion
 
 ## Graphs and Visualizations:
-
+![actorsRaceVSnomineesRace](https://github.com/HuRebecca/wiki-capstone/blob/master/finalVisuals/actorsRaceVSnomineesRace.jpg)
 
 ![graph sketches](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/fake_graphs.jpg?raw=true)
