@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detecting Racial Bias in the Oscars
+title: 
 description: DSC 180B Senior Capstone Project: Wikipedia
 ---
 
