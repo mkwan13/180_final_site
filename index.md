@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: test
 description: DSC 180B Senior Capstone Project: Wikipedia
 ---
 
