@@ -48,6 +48,6 @@ This graph illustrates the similar race distribution between the Oscars for Best
 
 <b> 6. There were no non-white actors nominated for the Oscars in genres other than Drama. </b>
 
-![non_white_by_genre](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/non_white%20by%20genre.png?raw-true)
+![non_white_by_genre](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/non_white%20by%20genre.png?raw=true)
 <br> This graph shows the percentage of non-white actors that were nominated within each movie genre. For example, in the 2000s, of all actors that were nominated for a leading role in a drama, 70% were non-white. No nominated actors in the comedy and western dramas were non-white. 
 
