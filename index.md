@@ -34,13 +34,19 @@ When conducting a preliminary exploratory data analysis of the actor-related dat
 <br> ![actorsRaceVSnomineesRace](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/actorsRaceVSnomineesRace.jpg?raw=true)
 <br> This graph illustrates the differences between the proportion of actors nominated for “Best Actor” for each race versus the proportion of leading actors in all movies for each race. We can see that across all years, white actors dominate the film industry and the “Best Actor” nominees. From 1934 to the 1980s, white actors were also disproportionately nominated for “Best Actor” over non-white actors. This is consistent with what we see in the film industry in general, but it also points to the lack of minority representation in film during this time period. In the 2000s, the data suggests that leading black and asian actors are nominated for “Best Actor” in a greater proportion than leading black and asian actors appear in films. This could suggest a bias in favor of actors of color during this decade. 
 
-<b> 4. We find similar results in another film award, the Golden Globe Awards for Best Actor in a Drama, indicating similar trends of racial bias throughout the movie industry. </b>
+<b> 4. We find similar results in another film award, the Golden Globe Awards. </b>
 ![race_dist_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/race_dist_over_time.png?raw=true)
 
-<b> 5. Actors in comedies and dramas are more likely to be nominated; westerns were very common prior to the 1970s, but quickly started declining in popularity </b>
-<br> ![genre_dist_nominated_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_nominated_over_time.png?raw=true)
+This graph illustrates the similar race distribution between the Oscars for Best Actor and the Golden Globe for Best Actor in a Drama, indicating similar trends of racial bias throughout the movie industry.
+
+<b> 5. Actors in dramas are more likely to be nominated for an Oscar. </b>
+![genre_dist_nominated_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_nominated_over_time.png?raw=true)
 <br> This graph shows the genre distribution of Oscar nominated movies throughout the history of the Oscars. The drama genre has the highest proportion of nominations throughout and was even the only category nominated in 1950-1955.
 
-<b> 6.) There were no non-white actors nominated for the Oscars in genres other than drama </b>
 ![genre_dist_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_over_time.png?raw=true)
+<b> As compared to the previous graph, this graph shows the genre distributions of all movies made since 1930.  Dramas are a much smaller proportion of all movies, even getting overtaken by genres like westerns and comedies at some points.
+
+<b> 6.) There were no non-white actors nominated for the Oscars in genres other than Drama. </b>
+![non_white_by_genre](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/non_white%20by%20genre.png?raw-true)
+<b> This graph shows the percentage of non-white actors that were nominated within each movie genre. For example, in the 2000s, of all actors that were nominated for a leading role in a drama, 70% were non-white. No nominated actors in the comedy and western dramas were non-white. 
 
