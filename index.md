@@ -21,6 +21,7 @@ Please refer to the full final report.
 ![actorsRaceVSnomineesRace](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/actorsRaceVSnomineesRace.jpg?raw=true)
 
 ![genre_dist_nominated_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_nominated_over_time.png?raw=true)
+This graph shows the genre distribution of oscar nominated movies throughout the years. As we can see here, the drama genre has the highest percentage of nominations throughout and was even the only category nominated in 1950-1955.
 
 ![genre_dist_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_over_time.png?raw=true)
 
