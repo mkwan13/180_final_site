@@ -2,13 +2,15 @@
 layout: page
 title: Detecting Racial Bias in the Oscars
 description: DSC 180B Senior Capstone Project: Wikipedia
----
 
+---
 ## Introduction
+
 The Oscars has long been known as the pinnacle award for movies and anyone involved in the making of movies. However, recently it has come under fire with accusations of being racist. People argue that the Oscars are not being fair in who they deem to be winners. This controversy has led to other film award shows to pop up, including the BET awards. BET stands for “Black Entertainment Television” and aims to recognize minorities in the film industry that they feel are underrepresented in the Oscars and other mainstream award shows. 
 Much of the controversy has been in the 21st century. This project aims to uncover any racial bias in mainstream awards shows over a period of 75 years to determine if this racial bias has been a problem for many years or if the bias has become more prevalent in recent years. It will also determine if the genre of a movie plays a part in getting an actor nominated for an Oscar. 
-
+---
 ## Background
+
 The Academy Awards, or the Oscars, are accolades annually distributed by the Academy of Motion Picture Arts and Sciences (AMPAS) to individuals for their notable achievement in the film industry. Being nominated for an Oscar indicates excellence in one’s field and can lead to even greater opportunities for a winner in the future. There are several categories for which one can receive an award, including “Best Picture”, “Best Director”, and “Best Actor”, and nominees and winners are chosen by voting members of AMPAS. The data generation process for our project is the Oscar nomination and voting process which produces the annual list of actors who are nominated for the “Best Actor” Academy Award, and which one of those actors goes on to win the award.
 ## Methods
 
