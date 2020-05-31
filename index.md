@@ -39,7 +39,7 @@ When conducting a preliminary exploratory data analysis of the actor-related dat
 
 This graph illustrates the similar race distribution between the Oscars for Best Actor and the Golden Globe for Best Actor in a Drama, indicating similar trends of racial bias throughout the movie industry.
 
-<b> 5. Actors in dramas are more likely to be nominated for an Oscar. </b>
+<b> 5. Actors in Dramas are more likely to be nominated for an Oscar. </b>
 ![genre_dist_nominated_over_time](https://github.com/mkwan13/180_final_site/blob/gh-pages/images/genre_dist_nominated_over_time.png?raw=true)
 <br> This graph shows the genre distribution of Oscar nominated movies throughout the history of the Oscars. The drama genre has the highest proportion of nominations throughout and was even the only category nominated in 1950-1955.
 
